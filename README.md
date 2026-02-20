@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Saurav Singh Chandel</h1>
+<h1 align="center">Saurav Singh Chandel</h1>
+
 <p align="center">
-  <b>Computer Science & Applied Mathematics @ Memorial University</b><br/>
-  Full-Stack Developer • Systems Thinker • Math-Driven Engineer
+  BSc (Honours) — Computer Science & Applied Mathematics  
+  <br/>
+  ∂ Systems • λ Algorithms • Σ Structure • ∞ Curiosity
 </p>
 
 <p align="center">
@@ -11,44 +13,51 @@
   <a href="https://github.com/SauravSinghChandel?tab=repositories">
     <img src="https://img.shields.io/github/stars/SauravSinghChandel?style=for-the-badge" />
   </a>
+  <a href="https://www.linkedin.com/in/saurav-chandel-92937221b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Research%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/sauravsingh527/">
+    <img src="https://img.shields.io/badge/LeetCode-Algorithmic%20Practice-orange?style=for-the-badge&logo=leetcode" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=SauravSinghChandel&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## ∇ About
 
 - 🎓 BSc (Honours) in Computer Science & Applied Mathematics  
-  GPA: **3.76 / 4.0** (CS GPA: 3.9)  
+  GPA: **3.76 / 4.0** | CS GPA: **3.9 / 4.0**  
 - 🏅 Dean’s List (2022–23)  
-- 🧠 Strong foundation in Algorithms, AI, Numerical Methods & Mathematical Modeling  
-- 💻 Passionate about full-stack systems, scalable backend design, and real-time applications  
+- 🧠 Focus: Algorithms, Numerical Methods, Spectral Theory, Modeling  
+- 💻 Engineering scalable distributed systems & real-time applications  
 - 📍 St. John’s, Newfoundland  
+
+> *Structure in mathematics. Execution in systems.*
 
 ---
 
-## 🛠 Tech Stack
+## ⊕ Computational Stack
 
 ### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,java,sql" />
 </p>
 
-### Frameworks & Tools
+### Frameworks / Systems
 <p>
 <img src="https://skillicons.dev/icons?i=react,next,node,express,mongodb,docker,gcp,linux,git" />
 </p>
 
-### Libraries & Technologies
-- Tailwind CSS, DaisyUI  
-- Pandas, NumPy, Matplotlib, scikit-learn  
-- Three.js  
-- Google Cloud Run, Pub/Sub  
-- Stream, Clerk  
+### Scientific Libraries
+- NumPy · Pandas · Matplotlib · scikit-learn  
+- Tailwind CSS · DaisyUI · Three.js  
+- Google Cloud Run · Pub/Sub  
+- Stream · Clerk  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Quantitative Signals
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SauravSinghChandel&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" />
@@ -60,21 +69,16 @@
 </p>
 
 ---
-## 🧠 LeetCode
+
+## λ Algorithmic Practice
 
 <p align="center">
-  <a href="https://leetcode.com/u/sauravsingh527/">
-    <img src="https://img.shields.io/badge/LeetCode-sauravsingh527-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sauravsingh527?theme=dark&font=Baloo%202&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/sauravsingh527?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Gradient
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SauravSinghChandel&radius=12" />
@@ -82,7 +86,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Distinctions
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SauravSinghChandel&no-frame=true&margin-w=15" />
@@ -90,49 +94,43 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔬 Selected Work
 
 ### 🎥 Live Interview Platform  
-Full-stack MERN platform for real-time coding interviews  
-- Authentication, session persistence, code execution  
-- Live video integration  
-- Built with MongoDB, Express, React, Node, Tailwind  
-
----
+Real-time MERN system for distributed coding interviews  
+- Authentication, execution engine, session state persistence  
+- Designed for low-latency interaction and reliability  
 
 ### 📺 YouTube Clone  
-Cloud-native scalable backend  
-- Google Cloud Run + Pub/Sub  
-- Media workflows with Storage buckets  
-- Next.js + TypeScript frontend  
-
----
+Event-driven cloud-native backend  
+- Google Cloud Run + Pub/Sub architecture  
+- Scalable media workflows  
 
 ### 🌌 Honours Thesis — Black Hole Stability (MOTS)  
-- Spectral methods for eigenvalue stability analysis  
-- Relative errors as low as 10⁻⁵  
-- Parameter-driven stability transition analysis  
+- Spectral eigenvalue analysis in curved spacetime  
+- Relative errors as low as **10⁻⁵**  
+- Stability transitions under parameter variation  
 
 ---
 
-## 👨‍🏫 Experience Highlights
+## ∂ Experience
 
-- 💡 Computer Science Help Centre Assistant  
-- 📚 Teaching Assistant (100+ student mathematics course)  
-- ⚙️ Database Analyst — Automated processes reducing ~30 hours of manual work per semester  
+- Computer Science Help Centre Assistant  
+- Teaching Assistant (100+ student mathematics course)  
+- Database Analyst — automation saving ~30 hours per semester  
 
 ---
 
-## 🌐 Connect With Me
+## ∞ Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/saurav-chandel-92937221b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/SauravSinghChandel">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://sauravsinghchandel.com/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -140,5 +138,5 @@ Cloud-native scalable backend
 ---
 
 <p align="center">
-  <i>"Mathematics gives structure. Code gives it life."</i>
+  <i>d(ideas)/dt → implementation</i>
 </p>
