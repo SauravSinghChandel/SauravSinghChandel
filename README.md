@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://sauravsinghchandel.com/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/saurav-chandel-92937221b/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/sauravsingh527/">LeetCode</a>
+  <a href="https://leetcode.com/u/sauravsingh527/">LeetCode</a> ·
   <a href="https://x.com/Saurav_Builds">X</a>
 </p>
 
