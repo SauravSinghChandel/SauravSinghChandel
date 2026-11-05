@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saurav 👋</h1>
+<h1 align="center">Saurav Chandel</h1>
 
 <p align="center">
   Software developer in St. John's, Newfoundland<br>
@@ -9,6 +9,7 @@
   <a href="https://sauravsinghchandel.com/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/saurav-chandel-92937221b/">LinkedIn</a> ·
   <a href="https://leetcode.com/u/sauravsingh527/">LeetCode</a>
+  <a href="https://x.com/Saurav_Builds">X</a>
 </p>
 
 ## About me
@@ -34,5 +35,5 @@ I like working on AI, full-stack applications, algorithms, and projects that bri
 - [Portfolio](https://sauravsinghchandel.com/)
 - [LinkedIn](https://www.linkedin.com/in/saurav-chandel-92937221b/)
 - [LeetCode](https://leetcode.com/u/sauravsingh527/)
-- [\X](https://x.com/Saurav_Builds/)
-- 
+- [X](https://x.com/Saurav_Builds/)
+  
