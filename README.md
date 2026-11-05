@@ -29,11 +29,4 @@ I like working on AI, full-stack applications, algorithms, and projects that bri
 **Languages:** Python, TypeScript, JavaScript, C++, Java, SQL  
 **Web and systems:** React, Next.js, Node.js, Django, MongoDB, Docker, Linux  
 **AI and data:** NumPy, Pandas, scikit-learn, speech recognition, and language models
-
-## Get in touch
-
-- [Portfolio](https://sauravsinghchandel.com/)
-- [LinkedIn](https://www.linkedin.com/in/saurav-chandel-92937221b/)
-- [LeetCode](https://leetcode.com/u/sauravsingh527/)
-- [X](https://x.com/Saurav_Builds/)
   
